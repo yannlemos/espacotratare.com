@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Espaço Tratare</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Espaço Tratare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Veronica Lemos</copyright>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title> Procrastinação: Falta de Disciplina ou Mecanismo do Cérebro? </title>
+      <link>http://localhost:1313/artigos/procrastinacao/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artigos/procrastinacao/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+    <item>
+      <title>A Importância dos Jogos Lúdicos na Psicopedagogia: Aprender Brincando</title>
+      <link>http://localhost:1313/artigos/jogos-ludicos/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artigos/jogos-ludicos/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/artigos/jogos-ludicos/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Jogos Lúdicos</title>
+      <link>http://localhost:1313/artigos/esquecimento-ou-algo-mais/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/artigos/esquecimento-ou-algo-mais/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contato/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/espaco-e-equipe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/espaco-e-equipe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/servicos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/servicos/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
