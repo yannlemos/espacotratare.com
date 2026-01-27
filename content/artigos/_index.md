@@ -2,6 +2,6 @@
 title: "Artigos"
 description: "Lorem ipsum dolor sit amet."
 cascade:
-  showReadingTime: true
+  showReadingTime: false
   showDate: false
 ---
