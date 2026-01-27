@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/servicos/avaliacao-neuropsicologica/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/artigos/procrastinacao/</loc>
+    <loc>http://localhost:1313/artigos/dificuldades-de-aprendizado/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -21,7 +26,43 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/artigos/aprender-nao-e-so-estudar/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/artigos/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/avaliacao-neuropsicologica/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/confusao-mental/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/diagnostico-tardio-tdah-tea/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/dor-cronica-nao-e-normal/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/equilibrio-digital/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -29,6 +70,63 @@
   <url>
     <loc>http://localhost:1313/artigos/esquecimento-ou-algo-mais/</loc>
     <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/psicopediagogia-aprendizado/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/procrastinacao/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/proibi%C3%A7%C3%A3o-de-celulares/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/ciencia-por-tras-pedido-de-ajuda/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/reabilitica%C3%A7%C3%A3o-cognitiva/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/tdah-tea-em-adultos/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/artigos/volta-as-aulas/</loc>
+    <lastmod>2022-01-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/servicos/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/servicos/avaliacao-para-bariatrica/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/servicos/avalia%C3%A7%C3%A3o-para-concurso/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -43,7 +141,17 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/servicos/</loc>
+    <loc>http://localhost:1313/servicos/psicopedagogia/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/servicos/psicoterapia/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/servicos/reabilita%C3%A7%C3%A3o/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
