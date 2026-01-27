@@ -16,41 +16,40 @@
  weight = 1
 
 [[main]]
-  name = "Avaliação Neuropsicológica"
+  name = "Avaliação neuropsicológica"
   parent = "Serviços"
   pageRef = "servicos/avaliacao-neuropsicologica"
-  weight = 20
-
-[[main]]
-  name = "Avaliação para concurso"
-  parent = "Serviços"
-  pageRef = "servicos/avaliacao-para-concurso"
-  weight = 20
-
-[[main]]
-  name = "Avaliação para bariátrica"
-  parent = "Serviços"
-  pageRef = "servicos/avaliacao-para-bariatrica"
-  weight = 20
-
-[[main]]
-  name = "Psicopedagogia"
-  parent = "Serviços"
-  pageRef = "servicos/psicopedagogia"
-  weight = 20
-
-[[main]]
-  name = "Psicoterapia"
-  parent = "Serviços"
-  pageRef = "servicos/psicoterapia"
-  weight = 20
+  weight = 1
 
 [[main]]
   name = "Reabilitação"
   parent = "Serviços"
   pageRef = "servicos/reabilitacao"
-  weight = 20
+  weight = 2
 
+[[main]]
+  name = "Avaliação para concurso"
+  parent = "Serviços"
+  pageRef = "servicos/avaliacao-para-concurso"
+  weight = 3
+
+[[main]]
+  name = "Avaliação para bariátrica"
+  parent = "Serviços"
+  pageRef = "servicos/avaliacao-para-bariatrica"
+  weight = 4
+
+[[main]]
+  name = "Psicopedagogia"
+  parent = "Serviços"
+  pageRef = "servicos/psicopedagogia"
+  weight = 5
+
+[[main]]
+  name = "Psicoterapia"
+  parent = "Serviços"
+  pageRef = "servicos/psicoterapia"
+  weight = 6
 
 
 [[main]]

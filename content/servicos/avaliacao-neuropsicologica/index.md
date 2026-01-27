@@ -60,10 +60,11 @@ A avaliação neuropsicológica é uma ferramenta fundamental para entender como
 ## Avaliação Neuropsicológica e Psicopedagógica
 
 Entendemos a necessidade de inserir a avaliação psicopedagógica na execução do laudo na investigação da modalidade da aprendizagem, através da aplicação de baterias de testes inerentes a psicopedagogia.
-Entre em contato
+
+<br>
 
 {{< button href="/contato" target="_self" >}}
 Entre em contato
 {{< /button >}}
-
-{{< list title="Serviços" cardView=true limit=10 where="Type" value="serviço" >}}
+---
+{{< list title="Serviços" cardView=false limit=10 where="Type" value="serviço" >}}

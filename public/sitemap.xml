@@ -126,7 +126,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/servicos/avalia%C3%A7%C3%A3o-para-concurso/</loc>
+    <loc>http://localhost:1313/servicos/avaliacao-para-concurso/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -151,7 +151,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/servicos/reabilita%C3%A7%C3%A3o/</loc>
+    <loc>http://localhost:1313/servicos/reabilitacao/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
