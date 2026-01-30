@@ -1,6 +1,7 @@
 ---
 title: "Psicoterapia"
 type: "serviço"
+summary: "Test"
 ---
 No Espaço Tratare, oferecemos serviços de Psicoterapia para ajudar nossos pacientes a enfrentar desafios emocionais e comportamentais, promover o bem-estar mental e melhorar a qualidade de vida. Nossos psicoterapeutas são altamente qualificados e utilizam abordagens terapêuticas baseadas em evidências para atender às necessidades individuais de cada paciente.
 

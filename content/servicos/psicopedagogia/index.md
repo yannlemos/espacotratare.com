@@ -1,6 +1,7 @@
 ---
 title: "Psicopedagogia"
 type: "serviço"
+summary: "Test"
 ---
 No Espaço Tratare, oferecemos serviços de Psicopedagogia dedicados a identificar e intervir nas dificuldades de aprendizagem, promovendo o desenvolvimento acadêmico e emocional dos nossos pacientes. Nossa abordagem é personalizada, considerando as necessidades únicas de cada indivíduo e trabalhando em conjunto com suas famílias e escolas.
 

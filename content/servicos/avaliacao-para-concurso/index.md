@@ -1,6 +1,7 @@
 ---
 title: "Avaliação para Concurso"
 type: "serviço"
+summary: "Test"
 ---
 
 No Espaço Tratare, oferecemos o serviço de Avaliação Psicológica para Concursos, essencial para candidatos que precisam apresentar laudos psicológicos conforme exigências dos editais de concursos públicos e processos seletivos. Nosso objetivo é fornecer uma avaliação precisa e completa, garantindo que o candidato esteja apto para enfrentar os desafios do concurso.

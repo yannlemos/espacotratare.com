@@ -1,6 +1,7 @@
 ---
 title: "Avaliação Para Bariátrica"
 type: "serviço"
+summary: "Test"
 ---
 No Espaço Tratare, oferecemos o serviço de Avaliação Psicológica para Cirurgia Bariátrica, uma etapa fundamental no processo de preparação para essa intervenção cirúrgica. A avaliação psicológica é exigida por cirurgiões e equipes multidisciplinares para garantir que o paciente esteja mental e emocionalmente preparado para os desafios e mudanças que a cirurgia trará.
 

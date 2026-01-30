@@ -1,5 +1,6 @@
 ---
 title: "Espaço & Equipe"
+showAuthor: false
 ---
 
 Estamos localizados em Araruama/RJ e contamos com infraestrutura para atendimento a todas as idades. O ambiente foi especialmente projetado para proporcionar conforto e aconchego a todos os nossos clientes e parceiros.
@@ -56,4 +57,11 @@ Formada em Letras Português/Inglês, Márlen iniciou sua carreira como professo
 Márlen também cursou Neuropsicologia Educacional e trabalhou como Coordenadora de Ensino Fundamental e Psicopedagoga Institucional, ampliando sua experiência educacional. Em 2011, conheceu Verônica e juntas fundaram o Espaço TRATARE, que ao longo de 13 anos tem proporcionado avaliações psicopedagógicas e neuropsicológicas, bem como tratamentos individualizados para pacientes com TEA, TDAH, transtornos de aprendizagem e outros transtornos do neurodesenvolvimento.
 
 
+---
+
+## Depoimentos
+
+![](15.webp)
+![](16.webp)
+![](17.webp)
 

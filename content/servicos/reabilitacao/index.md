@@ -1,6 +1,7 @@
 ---
 title: "Reabilitação"
 type: "serviço"
+summary: "Test"
 ---
 A Reabilitação Neuropsicológica no Espaço Tratare é um processo terapêutico especializado, focado na recuperação e melhoria das funções cognitivas afetadas por lesões cerebrais, doenças neurodegenerativas, ou outras condições neurológicas. Este serviço é cuidadosamente adaptado às necessidades individuais de cada paciente, com o objetivo de promover a autonomia e a qualidade de vida.
 

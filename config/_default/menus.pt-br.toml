@@ -12,6 +12,7 @@
 
 [[main]]
  name = "Serviços"
+ pre = "bars"
  pageRef = "servicos"
  weight = 1
 
@@ -54,16 +55,19 @@
 
 [[main]]
  name = "Espaço & Equipe"
+ pre = "location-dot"
  pageRef = "espaco-e-equipe"
  weight = 2
 
 [[main]]
  name = "Artigos"
+ pre = "pencil"
  pageRef = "artigos"
  weight = 3
 
 [[main]]
  name = "Entre em contato"
+ pre = "phone"
  pageRef = "contato"
  weight = 4
 
