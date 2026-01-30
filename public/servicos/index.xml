@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Espaço Tratare</title>
-    <link>http://localhost:1313/servicos/</link>
+    <link>http://localhost:1313/espacotratare.com/servicos/</link>
     <description>Recent content on Espaço Tratare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <managingEditor>espacotratare@gmail.com (Verônica Lemos)</managingEditor>
     <webMaster>espacotratare@gmail.com (Verônica Lemos)</webMaster>
     <copyright>Espaço Tratare, 150 Avenida John Kennedy, Centro - RJ 28970-000 Brasil © 2026 Verônica Lemos</copyright>
-    <atom:link href="http://localhost:1313/servicos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/espacotratare.com/servicos/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Avaliação Neuropsicológica</title>
-      <link>http://localhost:1313/servicos/avaliacao-neuropsicologica/</link>
+      <link>http://localhost:1313/espacotratare.com/servicos/avaliacao-neuropsicologica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>espacotratare@gmail.com (Verônica Lemos)</author>
-      <guid>http://localhost:1313/servicos/avaliacao-neuropsicologica/</guid>
+      <guid>http://localhost:1313/espacotratare.com/servicos/avaliacao-neuropsicologica/</guid>
       <description>Test</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/servicos/avaliacao-neuropsicologica/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/espacotratare.com/servicos/avaliacao-neuropsicologica/feature.jpg" />
     </item>
     
     <item>
       <title>Avaliação Para Bariátrica</title>
-      <link>http://localhost:1313/servicos/avaliacao-para-bariatrica/</link>
+      <link>http://localhost:1313/espacotratare.com/servicos/avaliacao-para-bariatrica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>espacotratare@gmail.com (Verônica Lemos)</author>
-      <guid>http://localhost:1313/servicos/avaliacao-para-bariatrica/</guid>
+      <guid>http://localhost:1313/espacotratare.com/servicos/avaliacao-para-bariatrica/</guid>
       <description>Test</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/servicos/avaliacao-para-bariatrica/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/espacotratare.com/servicos/avaliacao-para-bariatrica/feature.webp" />
     </item>
     
     <item>
       <title>Avaliação para Concurso</title>
-      <link>http://localhost:1313/servicos/avaliacao-para-concurso/</link>
+      <link>http://localhost:1313/espacotratare.com/servicos/avaliacao-para-concurso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>espacotratare@gmail.com (Verônica Lemos)</author>
-      <guid>http://localhost:1313/servicos/avaliacao-para-concurso/</guid>
+      <guid>http://localhost:1313/espacotratare.com/servicos/avaliacao-para-concurso/</guid>
       <description>Test</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/servicos/avaliacao-para-concurso/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/espacotratare.com/servicos/avaliacao-para-concurso/feature.jpg" />
     </item>
     
     <item>
       <title>Psicopedagogia</title>
-      <link>http://localhost:1313/servicos/psicopedagogia/</link>
+      <link>http://localhost:1313/espacotratare.com/servicos/psicopedagogia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>espacotratare@gmail.com (Verônica Lemos)</author>
-      <guid>http://localhost:1313/servicos/psicopedagogia/</guid>
+      <guid>http://localhost:1313/espacotratare.com/servicos/psicopedagogia/</guid>
       <description>Test</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/servicos/psicopedagogia/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/espacotratare.com/servicos/psicopedagogia/feature.jpg" />
     </item>
     
     <item>
       <title>Psicoterapia</title>
-      <link>http://localhost:1313/servicos/psicoterapia/</link>
+      <link>http://localhost:1313/espacotratare.com/servicos/psicoterapia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>espacotratare@gmail.com (Verônica Lemos)</author>
-      <guid>http://localhost:1313/servicos/psicoterapia/</guid>
+      <guid>http://localhost:1313/espacotratare.com/servicos/psicoterapia/</guid>
       <description>Test</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/servicos/psicoterapia/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/espacotratare.com/servicos/psicoterapia/feature.jpg" />
     </item>
     
     <item>
       <title>Reabilitação</title>
-      <link>http://localhost:1313/servicos/reabilitacao/</link>
+      <link>http://localhost:1313/espacotratare.com/servicos/reabilitacao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>espacotratare@gmail.com (Verônica Lemos)</author>
-      <guid>http://localhost:1313/servicos/reabilitacao/</guid>
+      <guid>http://localhost:1313/espacotratare.com/servicos/reabilitacao/</guid>
       <description>Test</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/servicos/reabilitacao/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/espacotratare.com/servicos/reabilitacao/feature.webp" />
     </item>
     
   </channel>
