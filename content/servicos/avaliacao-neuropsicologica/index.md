@@ -24,7 +24,7 @@ Diferentes escalas de avaliação; inventários padronizados também com a famí
 
 Encontro destinado a explicar  a pessoa e a família acerca do significado do resultado encontrado, descrevendo o perfil cognitivo e emocional, assim como os encaminhamentos necessários visando melhor funcionalidade. Vale ressaltar que após a avaliação neuropsicológica é necessário o retorno ao médico assistente para o fechamento do diagnóstico.
 
-> As consultas acontecem semanalmente, com duração de aproximadamente 1:40h. Não é possível estimar o tempo devido a individualidade de cada paciente (idade, velocidade de execução das atividades, indicação clínica, entre outros).
+> As consultas acontecem semanalmente. Não é possível estimar o tempo devido a individualidade de cada paciente (idade, velocidade de execução das atividades, indicação clínica, entre outros).
 
 ---
 

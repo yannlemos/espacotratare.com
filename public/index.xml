@@ -182,16 +182,6 @@
     </item>
     
     <item>
-      <title>Avaliação Para Bariátrica</title>
-      <link>http://localhost:1313/servicos/avaliacao-para-bariatrica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>espacotratare@gmail.com (Verônica Lemos)</author>
-      <guid>http://localhost:1313/servicos/avaliacao-para-bariatrica/</guid>
-      <description>Test</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/servicos/avaliacao-para-bariatrica/feature.webp" />
-    </item>
-    
-    <item>
       <title>Avaliação para Concurso</title>
       <link>http://localhost:1313/servicos/avaliacao-para-concurso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

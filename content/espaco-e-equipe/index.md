@@ -34,15 +34,15 @@ Estamos localizados em Araruama/RJ e contamos com infraestrutura para atendiment
 
 ### Verônica Lemos
 
-![](1.webp)
+![](1.jpeg)
 
 **Psicóloga Clínica e Neuropsicóloga**
 
-Verônica Lemos é Psicóloga Clínica atuando em Araruama/RJ desde 1999, com uma trajetória sólida e dedicada à saúde mental. Com experiência em Neuropsicologia desde 2012. Atualmente cursando MBA em Reabilitação Neuropsicológica e Desenvolvimento Cognitivo.
+Verônica Lemos (CRP 05/25884) atua em Araruama/RJ desde 1999, com trajetória consolidada na psicologia clínica e, desde 2012, dedicação à neuropsicologia. Possui MBA em Reabilitação Neuropsicológica e Desenvolvimento Cognitivo, com formação voltada à compreensão aprofundada do funcionamento cognitivo e emocional ao longo da vida.
 
-Realiza intervenções focadas na recuperação e melhoria das funções cognitivas afetadas por condições neuropsicológicas, promovendo a autonomia e a qualidade de vida dos pacientes. Ela também realiza avaliações detalhadas para candidatos a concursos, analisando inteligência, personalidade e aptidões específicas, fornecendo laudos que atendem aos requisitos dos editais.
+Realiza avaliação neuropsicológica com investigação criteriosa de atenção, memória, linguagem, funções executivas, aprendizagem e aspectos socioemocionais, integrando entrevistas clínicas, instrumentos padronizados e informações escolares e familiares quando pertinentes. O processo é conduzido com rigor técnico e devolutiva clara, oferecendo direcionamentos objetivos para família, escola e profissionais envolvidos.
 
-Verônica Lemos é reconhecida por seu compromisso e expertise, proporcionando um atendimento acolhedor e individualizado que busca sempre o melhor para seus pacientes.
+Também desenvolve intervenções em reabilitação e estimulação cognitiva, com planos individualizados voltados à autonomia, organização do cotidiano e melhora do desempenho funcional.
 
 ### Márlen Bussinger
 
@@ -64,4 +64,19 @@ Márlen também cursou Neuropsicologia Educacional e trabalhou como Coordenadora
 ![](15.webp)
 ![](16.webp)
 ![](17.webp)
+![](18.png)
+![](19.png)
+![](20.png)
+![](21.png)
+![](22.png)
+![](23.png)
+![](24.png)
+![](25.png)
+![](26.png)
+![](27.png)
+![](28.png)
+![](29.png)
+![](30.png)
+![](31.png)
+![](32.png)
 

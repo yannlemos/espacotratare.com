@@ -11,16 +11,6 @@ A Psicoterapia é um processo de tratamento conduzido por profissionais de saúd
 
 ---
 
-## Nossos Serviços de Psicoterapia
-
-#### Terapia Cognitivo-Comportamental (TCC)
-A TCC é uma abordagem focada em identificar e modificar padrões de pensamento e comportamento negativos. Utilizamos técnicas específicas para ajudar os pacientes a desenvolver habilidades para enfrentar problemas como ansiedade, depressão, fobias e transtornos alimentares.
-
-#### Psicoterapia Psicodinâmica
-Esta abordagem se concentra em explorar os conflitos inconscientes e as experiências passadas que influenciam o comportamento atual. Através da psicoterapia psicodinâmica, os pacientes ganham uma compreensão mais profunda de si mesmos e de suas motivações.
-
----
-
 ## Benefícios da Psicoterapia
 
 #### Autoconhecimento e Crescimento Pessoal

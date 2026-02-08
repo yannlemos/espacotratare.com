@@ -34,11 +34,11 @@
   pageRef = "servicos/avaliacao-para-concurso"
   weight = 3
 
-[[main]]
-  name = "Avaliação para bariátrica"
-  parent = "Serviços"
-  pageRef = "servicos/avaliacao-para-bariatrica"
-  weight = 4
+# [[main]]
+#   name = "Avaliação para bariátrica"
+#   parent = "Serviços"
+#   pageRef = "servicos/avaliacao-para-bariatrica"
+#   weight = 4
 
 [[main]]
   name = "Psicopedagogia"

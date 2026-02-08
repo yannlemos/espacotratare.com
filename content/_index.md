@@ -34,7 +34,7 @@ A Avaliação Neuropsicológica é um método detalhado que investiga as funçõ
 
 ---
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-8 my-12">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-12">
 
 <div class="flex flex-col">
 {{< figure src="2.jpg" alt="Reabilitação" class="rounded-lg shadow-lg mb-4" >}}
@@ -54,26 +54,15 @@ A Avaliação Psicológica para Concursos é um processo essencial para candidat
 
 </div>
 
+</div>
+
+
+----
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-12">
+
 <div class="flex flex-col">
-{{< figure src="4.jpg" alt="Avaliação para bariátrica" class="rounded-lg shadow-lg mb-4" >}}
-
-### Avaliação para bariátrica
-
-A Avaliação Psicológica para Cirurgia Bariátrica é um passo crucial no processo de preparação para a cirurgia. Avaliamos o estado emocional e psicológico do paciente, identificando fatores que possam influenciar o sucesso da cirurgia e o pós-operatório. Nosso objetivo é garantir que o paciente esteja psicologicamente preparado para as mudanças que a cirurgia trará, promovendo um melhor resultado e uma adaptação saudável ao novo estilo de vida.
-
-</div>
-
-</div>
-
------
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center my-8">
-
-<div>
-{{< figure src="5.jpg" alt="Criança fazendo avaliação" class="rounded-lg shadow-lg mb-4" >}}
-</div>
-
-<div>
+{{< figure src="3.jpg" alt="Avaliação psicológica para concursos" class="rounded-lg shadow-lg mb-4" >}}
 
 ### Psicopedagogia
 
@@ -81,22 +70,15 @@ A Psicopedagogia atua na identificação e intervenção de dificuldades de apre
 
 </div>
 
-</div>
-
----
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center my-8">
-
-<div>
+<div class="flex flex-col">
 {{< figure src="6.jpg" alt="Criança fazendo avaliação" class="rounded-lg shadow-lg mb-4" >}}
-</div>
 
-<div>
 
 ### Psicoterapia
 
 A Psicoterapia oferece suporte emocional e psicológico para indivíduos que enfrentam dificuldades pessoais, relacionais ou profissionais. Utilizamos abordagens terapêuticas comprovadas para ajudar nossos pacientes a superar desafios, melhorar o bem-estar mental e desenvolver estratégias eficazes para lidar com o estresse, a ansiedade, a depressão e outros transtornos psicológicos. Atendemos crianças, adolescentes, adultos e idosos, promovendo a saúde mental e a qualidade de vida.
 
 </div>
-
 </div>
+
+----
